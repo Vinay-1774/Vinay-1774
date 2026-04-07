@@ -72,17 +72,11 @@ $ cat github_stats.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay-1774&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinay-1774&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&stroke=00FF4133" width="48%" />
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-1774&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="40%" />
-
-</div>
 
 ---
 
