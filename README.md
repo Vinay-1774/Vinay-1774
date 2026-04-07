@@ -104,7 +104,7 @@ $ open --connect ./socials/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/vinaypratap1774)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/vinaypratap1774)   
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Vinay-1774)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:Vinaypratap1774@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/vinay_pratap1774)
