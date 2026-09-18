@@ -63,7 +63,8 @@ $ ls -la ./tech-stack/
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 
-###CMS
+### CMS
+
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B)
 
 ---
