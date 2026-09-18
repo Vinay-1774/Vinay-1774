@@ -37,7 +37,6 @@ $ ls -la ./tech-stack/
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 
 ### ⚡ Frameworks & Libraries
@@ -63,6 +62,9 @@ $ ls -la ./tech-stack/
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+
+###CMS
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=21759B)
 
 ---
 
