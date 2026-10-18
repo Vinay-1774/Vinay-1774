@@ -47,6 +47,7 @@ $ ls -la ./tech-stack/
 ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langsmith&logoColor=00FF41)
 
 
+
 ### 📊 Data Stack
 
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41)
@@ -94,7 +95,8 @@ $ cat github_stats.json
 $ git log --graph --oneline --all
 ```
 
-[![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-1774&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-1774&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinay-1774&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/Vinay-1774)
 
 ---
 
